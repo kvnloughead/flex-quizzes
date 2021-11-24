@@ -16,3 +16,21 @@
   padding: 100px; 
 }
 
+.button-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.button_action_go {
+  background-color: green;
+}
+
+.button_action_slow {
+  background-color: yellow;
+}
+
+.button_action_stop {
+  background-color: red;
+}
+
