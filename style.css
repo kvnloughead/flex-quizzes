@@ -16,21 +16,21 @@
   padding: 100px; 
 }
 
-.button-container {
+.traffic-light {
   display: flex;
   flex-direction: column;
   gap: 5px;
 }
 
-.button_action_go {
+.light_action_go {
   background-color: green;
 }
 
-.button_action_slow {
+.light_action_slow {
   background-color: yellow;
 }
 
-.button_action_stop {
+.light_action_stop {
   background-color: red;
 }
 
